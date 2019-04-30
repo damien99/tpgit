@@ -8,7 +8,7 @@
   </head>
   
   <body>
-  oula ça marche
+  oula ça marche oui
   <section>
   <?php
 	include('includes/header.inc.php');
