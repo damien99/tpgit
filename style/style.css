@@ -1,0 +1,133 @@
+﻿header {
+min-height: 143px;
+background-color: #d1d8ac;
+text-align:center,
+}
+h2{
+	margin : 20px 0px;
+}
+.c{
+	margin-left:30px;
+}
+.e{
+	margin-left:30px;
+}
+#fam{
+	font-weight: bold;
+}
+}
+#lesFamilles{
+	font-size:150%;
+}
+#tableF{
+	width :60%;
+	margin:35px auto;
+}
+#logo{
+position: absolute; /* pour le sotir du flux: cela évite une position relative pour le header h1 */
+}
+.info{
+	color: green;
+}
+.erreur{
+	color: red;
+}
+.form-control{
+	width:600px;
+}
+.form-horizontal{
+	margin-left:200px;
+}
+header h1{
+	text-align: center;
+	font-size: 200%;
+	color:#0080FF;
+	margin-left:20px;
+	padding-top:20px;
+}
+section{
+	margin: 0 auto;
+	width: 70%;
+	margin-top: 15px;
+}
+
+nav{
+
+	text-align: center;
+}
+.btn{
+	margin : 0px 40px;
+}
+nav li{
+	display: inline-block;
+	padding: 10px;
+}
+
+nav ul{
+	list-style-type: none;
+}
+a:link {
+	text-decoration: none;
+	border: none;
+}
+a:visited{
+	color: #0080FF;
+}
+
+table {
+	border: medium solid #6495ed;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+th {
+	border: thin solid #6495ed;
+	padding: 3px;
+	background-color: #D0E3FA;
+	background-image: url(sky.jpg);
+}
+td {
+	border: thin solid #6495ed;
+	padding: 3px;
+	text-align: center;
+	background-color: #ffffff;
+}
+caption {
+	font-family: sans-serif;
+}
+.bouton {
+   border-top: 1px solid #96d1f8;
+   background: #dedede;
+   background: -webkit-gradient(linear, left top, left bottom, from(#d8e1e8), to(#dedede));
+   padding: 6.5px 13px;
+   -webkit-border-radius: 3px;
+   -moz-border-radius: 3px;
+   border-radius: 3px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   font-size: 16px;
+   vertical-align: middle;
+   }
+
+.bouton:hover {
+   border-top-color: #BDBDBD;
+   background: #BDBDBD;
+   color: #BDBDBD;
+   }
+.bouton:active {
+   border-top-color: #0a334f;
+   background: #0a334f;
+   text-decoration: none;
+   }
+.centre{
+text-align :center;
+}
+.cache{
+	display:none;
+}
+.montre{
+	display:block;
+}
